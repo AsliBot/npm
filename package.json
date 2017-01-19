@@ -1,0 +1,20 @@
+{
+  "name": "aslibot",
+  "version": "0.0.1",
+  "description": "Virtual Assistant & Chat Bot",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsliBot/npm.git"
+  },
+  "keywords": [
+    "aslibot", "virtual assistant", "chat bot"
+  ],
+  "author": "Udit Vasu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsliBot/npm/issues"
+  },
+  "homepage": "https://github.com/AsliBot/npm#readme"
+}
